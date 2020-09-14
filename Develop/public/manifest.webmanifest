@@ -1,0 +1,19 @@
+{
+  "name": "Travel Budget Tracker",
+  "short_name": "Budget Tracker",
+  "description": "Track your budget on the road or at home!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#18CDBA",
+  "icons": [{
+    "src": "./icons/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "./icons/icon-515x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
