@@ -25,6 +25,7 @@ When brought back online:
 
 The final application performs as expected and meets the requirements given above. 
 
+
 ### Images
 
 - Tracker shows all entries logged:<br>
